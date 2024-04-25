@@ -1,4 +1,4 @@
-# Phishing Email Detector
+# [Phishing Email Detector](https://phishing-email-detector.streamlit.app/)
 
 ## Key Features
 
