@@ -1,6 +1,6 @@
 # [Phishing Email Detector](https://phishing-email-detector.streamlit.app/)
 
-Detect phishing attempts with our real-time analysis tool. Check out the [live site](https://phishing-email-detector.streamlit.app/)!
+Here is the link to the [Live Site](https://phishing-email-detector.streamlit.app/)!
 
 ## Key Features
 
