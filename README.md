@@ -1,6 +1,6 @@
 # [Phishing Email Detector](https://phishing-email-detector.streamlit.app/)
 
-Here is the link to the [Live Site](https://phishing-email-detector.streamlit.app/)!
+Here is the link to the live site: [https://phishing-email-detector.streamlit.app/](https://phishing-email-detector.streamlit.app/)
 
 ## Key Features
 
