@@ -1,53 +1,58 @@
 # [Phishing Email Detector](https://phishing-email-detector.streamlit.app/)
 
+Detect phishing attempts with our real-time analysis tool. Check out the [live site](https://phishing-email-detector.streamlit.app/)!
+
 ## Key Features
 
-- **Real-Time Analysis**: Instantly analyze the content of emails pasted into the text area.
-- **Risk Level Assessment**: Classifies the email content into categories: Low, Medium, or High risk.
-- **Pattern Detection**: Utilizes both regex and keyword matching to identify phishing indicators.
-- **User-Friendly Interface**: Easy-to-use web interface powered by Streamlit.
-- **Educational Tips**: Provides users with information on how to recognize and handle potential phishing emails.
+- **Real-Time Analysis**: Instantly analyze emails with a simple paste into our text area.
+- **Risk Level Assessment**: Emails are classified as Low, Medium, or High risk.
+- **Pattern Detection**: Employs regex and keyword matching to detect phishing indicators.
+- **User-Friendly Interface**: Streamlit powers our easy-to-navigate web interface.
+- **Educational Tips**: Learn tips on recognizing and handling potential phishing emails.
 
 ## Tools Used
 
-- **Python**: Primary programming language used for building the application.
-- **Streamlit**: Framework used to create the web application interface.
-- **Regular Expressions (Regex)**: Used for pattern matching to detect phishing indicators within the email content.
+- **Python**: The primary programming language.
+- **Streamlit**: Framework for the web application interface.
+- **Regex**: For phishing pattern recognition within emails.
 
-## Project Setup
+## Getting Started
 
-To get this project up and running on your local machine, follow these steps:
+These instructions will get you a copy of the project up and running on your local machine.
 
-1. **Clone the repository**
+### Prerequisites
 
+- Python
+- Pip
+
+### Installation
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/phishing-email-detector.git
    cd phishing-email-detector
    ```
 
-2. **Install dependencies**
-
+2. Install dependencies:
    ```bash
    pip install streamlit
    ```
 
-3. **Run the application**
-
+3. Run the application:
    ```bash
    streamlit run app.py
    ```
-
-   This will open the Streamlit application in your default web browser, typically at `http://localhost:8501`.
+   Access the application via `http://localhost:8501` in your web browser.
 
 ## Contributing
 
-If you have suggestions for improvements or wish to add new features, please fork the repository, make your changes, and submit a pull request.
+Interested in contributing? Great! Here's how you can help:
 
 1. Fork the repository.
-2. Create a new branch for your changes (`git checkout -b feature-branch`).
+2. Create your feature branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to your branch (`git push origin feature-branch`).
-5. Submit a pull request.
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
 
 ## Contact Information
 
