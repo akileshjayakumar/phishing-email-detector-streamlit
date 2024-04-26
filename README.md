@@ -46,13 +46,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Contributing
 
-Interested in contributing? Great! Here's how you can help:
+Your contributions are welcome! If you have ideas for improvements or new features:
 
 1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature-branch`).
+2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+5. Submit a pull request.
 
 ## Contact Information
 
